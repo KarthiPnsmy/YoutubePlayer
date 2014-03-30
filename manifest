@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: youtubeplayer
+moduleid: titutorial.ytplayer
+guid: e7979735-a2bd-476e-8ae5-6e3ac983ac16
+platform: android
+minsdk: 3.1.1.GA
